@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "3d144e3d-3304-33ca-b748-bfe9f9bf5ed4",
+    "name": "LDRP16",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bf275fb0-f3db-3c0f-beb4-b7e9e0528110",
+    "name": "Mineco",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
