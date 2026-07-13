@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:compacting_upgrade|true", "sophisticatedbackpacks:advanced_restock_upgrade|true"]
+
